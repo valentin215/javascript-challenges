@@ -1,2 +1,2 @@
 # javascript-challenges
-Javascript challenges guided by Wes Bos
+Javascript challenges guided by Wes Bos //
